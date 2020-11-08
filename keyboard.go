@@ -1,5 +1,5 @@
 // Package keyboard는 키모드로 부터 사용장의 입력을 읽어 옵니다.
-package keyboard
+package headfirstgo
 
 import (
 	"bufio"
